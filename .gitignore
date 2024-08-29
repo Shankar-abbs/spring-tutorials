@@ -1,0 +1,48 @@
+
+### **2. `.gitignore` Content:**
+
+```gitignore
+# Eclipse specific files
+.metadata/
+bin/
+*.tmp
+*.bak
+*.swp
+*~
+
+# Eclipse Core files
+.settings/
+.classpath
+.project
+
+# Maven specific files
+target/
+!**/src/main/**/target/
+!.mvn/wrapper/maven-wrapper.jar
+
+# Java specific files
+*.class
+*.log
+*.jar
+*.war
+*.ear
+*.iml
+
+# Spring Boot specific files
+*.log
+*.tmp
+*.out
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE specific files
+.idea/
+.vscode/
+*.iml
+
+# Miscellaneous
+*.bak
+*.swp
+*~
