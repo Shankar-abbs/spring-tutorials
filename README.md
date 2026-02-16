@@ -18,4 +18,4 @@ This repository contains code examples and tutorials related to Spring Framework
 ## Getting Started
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/repositoryname.git
+   git clone [https://github.com/yourusername/repositoryname.git](https://github.com/Shankar-abbs/spring-tutorials)
